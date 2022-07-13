@@ -24,7 +24,7 @@
     "firebase-admin": "^10.0.1",
     "https": "^1.0.0",
     "moment": "^2.29.1",
-    "react": "17.0.2",
+    "react": "18.0.0",
     "react-native": "0.69.1",
     "react-native-agora": "^3.5.1",
     "react-native-document-picker": "^7.1.2",
